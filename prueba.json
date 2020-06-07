@@ -1,0 +1,14 @@
+{
+	"pregunta1" :
+		{
+			"respuesta1" : "a",
+			"respuesta2" : "b",
+			"respuesta3" : "c",
+			"respuesta4" : "d",
+		},
+	"jugador1" :
+		{
+			"nombre" : "michael",
+			"puntuacion" : ";V"
+		}
+}
