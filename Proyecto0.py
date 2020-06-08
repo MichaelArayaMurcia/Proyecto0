@@ -55,8 +55,11 @@ def mostrarPuntuacion(listadejugadores):
 	Salidas: Ninguna.
 	Restricciones: La entrada tiene que ser un diccionario. 
 	"""
+	print("----------------------------------------------------")
 	for key in (listadejugadores):
-		print(listadejugadores[key])
+		print("| ",end="")
+		print(listadejugadores[key]["nombre"],": ",listadejugadores[key]["puntuacion"])
+	print("----------------------------------------------------")
 
 def abrirPreguntas():
 	archivo = open("prueba.json","r")
