@@ -1,14 +1,72 @@
 {
-	"pregunta1" :
-		{
-			"respuesta1" : "a",
-			"respuesta2" : "b",
-			"respuesta3" : "c",
-			"respuesta4" : "d",
-		},
-	"jugador1" :
-		{
-			"nombre" : "michael",
-			"puntuacion" : ";V"
-		}
-}
+	"Pregunta1" : {
+		"texto" : "¿Cuál de los siguientes tipos es efectivo contra el tipo dragón?",
+		"opciones" : {"a":"fuego","b":"dragón","c":"volador","d":"agua"},
+		"correcta" : "b"
+	},
+	"Pregunta2" : {
+		"texto" : "¿Cuál de los siguientes tipos es efectivo contra el tipo agua?",
+		"opciones" : {"a":"hada","b":"tierra","c":"electrico","d":"agua"},
+		"correcta" : "c"
+	},
+	"Pregunta3" : {
+		"texto" : "¿Cuál de los siguientes tipos es efectivo contra el tipo hada?",
+		"opciones" : {"a":"fuego","b":"veneno","c":"dragón","d":"roca"},
+		"correcta" : "b"
+	},
+	"Pregunta4" : {
+		"texto" : "¿Cuál de los siguientes tipos es efectivo contra el tipo veneno?",
+		"opciones" : {"a":"tierra","b":"planta","c":"electrico","d":"siniestro"},
+		"correcta" : "a"
+	},
+	"Pregunta5" : {
+		"texto" : "¿Cuál de los siguientes tipos es efectivo contra el tipo acero?",
+		"opciones" : {"a":"fuego","b":"hielo","c":"psiquico","d":"hada"},
+		"correcta" : "a"
+	},
+	"Pregunta6" : {
+		"texto" : "¿Cuál de los siguientes pokemon es de tipo fuego?",
+		"opciones" : {"a":"snivy","b":"chimchar","c":"bulbasaur","d":"heracross"},
+		"correcta" : "b"
+	},
+	"Pregunta7" : {
+		"texto" : "¿En cual generación de pokemon se integraron los combates en línea?",
+		"opciones" : {"a":"quinta","b":"tercera","c":"cuarta","d":"sexta"},
+		"correcta" : "c"
+	},
+	"Pregunta8" : {
+		"texto" : "¿De que tipo es el pokemon Sudowoodo?",
+		"opciones" : {"a":"Roca","b":"Planta","c":"Lucha","d":"Normal"},
+		"correcta" : "a"
+	},
+	"Pregunta9" : {
+		"texto" : "¿De que tipo es el pokemon Lugia?",
+		"opciones" : {"a":"Psiquico/Volador","b":"Agua/Volador","c":"Agua/Dragon","d":"Dragon"},
+		"correcta" : "a"
+	},
+	"Pregunta10" : {
+		"texto" : "¿Cuál de los siguientes tipos es efectivo contra el tipo bicho?",
+		"opciones" : {"a":"Agua","b":"Roca","c":"Hada","d":"Acero"},
+		"correcta" : "b"
+	},
+	"Pregunta11" : {
+		"texto" : "¿Cuantas medallas de gimnasio a conseguido Ash en el anime de pokemon?",
+		"opciones" : {"a":"48","b":"56","c":"54","d":"60"},
+		"correcta" : "a"
+	},
+	"Pregunta12" : {
+		"texto" : "¿Que temporadas del anime toman lugar en la region de Hoenn?",
+		"opciones" : {"a":"Temporadas 4-6","b":"Temporadas 6-9","c":"Temporadas 5-8","d":"Temporadas 6-10"},
+		"correcta" : "b"
+	},
+	"Pregunta13" : {
+		"texto" : "¿Que temporadas del anime toman lugar en la region de Sinnoh?",
+		"opciones" : {"a":"Temporadas 8-10","b":"Temporadas 9-12","c":"Temporadas 10-13","d":"Temporadas 10-12"},
+		"correcta" : "c"
+	},
+	"Pregunta14" : {
+		"texto" : "¿Que temporadas del anime toman lugar en la region de Unova?",
+		"opciones" : {"a":"Temporadas 14-16","b":"Temporadas 12-15","c":"Temporadas 13-16","d":"Temporadas 12-14"},
+		"correcta" : "a"
+	}
+} 
