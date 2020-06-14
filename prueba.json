@@ -68,5 +68,10 @@
 		"texto" : "¿Que temporadas del anime toman lugar en la region de Unova?",
 		"opciones" : {"a":"Temporadas 14-16","b":"Temporadas 12-15","c":"Temporadas 13-16","d":"Temporadas 12-14"},
 		"correcta" : "a"
+	},
+	"Pregunta15" : {
+		"texto" : "¿Mencione el nombre del zorro de 9 colas?",
+		"opciones" : {"a":"Kurama","b":"Naruto","c":"Sasuke","d":"Matatabi"},
+		"correcta" : "a"
 	}
 } 
