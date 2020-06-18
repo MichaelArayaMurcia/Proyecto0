@@ -73,5 +73,447 @@
 		"texto" : "¿Mencione el nombre del zorro de 9 colas?",
 		"opciones" : {"a":"Kurama","b":"Naruto","c":"Sasuke","d":"Matatabi"},
 		"correcta" : "a"
+	},
+	"Pregunta16" : {
+		"texto" : "¿Cuál es el lugar más frío de la tierra?",
+		"opciones" : {"a" :"Antártida","b":"Costa Rica","c":"El polo norte","d":"Canada"},
+		"correcta":"a"
+	},
+	"Pregunta17" : {
+		"texto" : "¿Cuál es el río más largo del mundo?",
+		"opciones" : {"a" :"Nilo","b":"Amazonas","c":"Misisipi","d":"Danubio"},
+		"correcta":"b"
+	},
+	"Pregunta18" : {
+		"texto" : "¿Cuándo acabó la II Guerra Mundial?",
+		"opciones" : {"a" :"1949","b":"1948","c":"1945","d":"1946"},
+		"correcta":"c"
+	},
+	"Pregunta19" : {
+		"texto" : "¿Qué año llegó Cristóbal Colón a América?",
+		"opciones" : {"a" :"1950","b":"1942","c":"1946","d":"1492"},
+		"correcta":"d"
+	},
+	"Pregunta20" : {
+		"texto" : "¿Qué producto cultiva más Guatemala?",
+		"opciones" : {"a" :"Café","b":"Maíz","c":"Bananas","d":"Zanahoria"},
+		"correcta":"a"
+	},
+	"Pregunta21" : {
+		"texto" : "¿En qué se especializa la cartografía?",
+		"opciones" : {"a" :"Estudio de los mapas","b":"Estudio de las letras","c":"Estudio de las letras","d":"Estudio de la tierra"},
+		"correcta":"a"
+	},
+	"Pregunta22" : {
+		"texto" : "¿Cuál es tercer planeta en el sistema solar?",
+		"opciones" : {"a" :"Marte","b":"Tierra","c":"Venus","d":"Jupiter"},
+		"correcta":"b"
+	},
+	"Pregunta23" : {
+		"texto" : "¿En qué lugar del cuerpo se produce la insulina?",
+		"opciones" : {"a" :"Hígado","b":"Páncreas","c":"Cerebro","d":"Pulmones"},
+		"correcta":"b"
+	},
+	"Pregunta24" : {
+		"texto" : "¿En qué año cayó el muro de Berlín?",
+		"opciones" : {"a" :"1965","b":"1989","c":"1974","d":"1990"},
+		"correcta":"b"
+	},
+	"Pregunta25" : {
+		"texto" : "¿En qué año murió Freddie Mercury?",
+		"opciones" : {"a" :"1991","b":"1989","c":"1987","d":"1979"},
+		"correcta":"a"
+	},
+	"Pregunta26" : {
+		"texto" : "¿Cuántos corazones tienen los pulpos",
+		"opciones" : {"a" :"8","b":"1","c":"3","d":"6"},
+		"correcta":"c"
+	},
+	"Pregunta27" : {
+		"texto" : "¿Cuál es el color que representa la esperanza?",
+		"opciones" : {"a" :"Rojo","b":"Blanco","c":"Amarillo","d":"Verde"},
+		"correcta":"d"
+	},
+	"Pregunta28" : {
+		"texto" : "¿Cuál es el animal más rápido del mundo?",
+		"opciones" : {"a" :"Cheetah","b":"Guepardo","c":"Correcaminos","d":"Leopardo"},
+		"correcta":"b"
+	},
+	"Pregunta29" : {
+		"texto" : "¿Cuál fue la primera película de Walt Disney?",
+		"opciones" : {"a" :"Blancanieves","b":"Fantasía","c":"Pinocho","d":"El rey león"},
+		"correcta":"a"
+	},
+	"Pregunta30" : {
+		"texto" : "¿Cuál es el quinto planeta en el sistema solar?",
+		"opciones" : {"a" :"Júpiter","b":"Tierra","c":"Saturno","d":"Marte"},
+		"correcta":"a"
+	},
+	"Pregunta31" : {
+		"texto" : "¿Cuál de los siguientes no es un sabor primario?",
+		"opciones" : {"a" :"umami","b":"picante","c":"dulce","d":"ácido"},
+		"correcta":"b"
+	},
+	"Pregunta32" : {
+		"texto" : "¿Cuál de estos personajes tenía una enfermedad de corazón en la serie de supercampeones?",
+		"opciones" : {"a" :"Andy Johnson","b":"Oliver Atom","c":"Hanz Schneider","d":"Bruce Harper"},
+		"correcta":"a"
+	},
+	"Pregunta33" : {
+		"texto" : "¿Como se llama el tiro especial de Oliver Atom?",
+		"opciones" : {"a" :"Tiro de Hokkaido","b":"Tiro del tigre","c":"Tiro de navaja","d":"Tiro con efecto"},
+		"correcta":"d"
+	},
+	"Pregunta34" : {
+		"texto" : "¿Que personaje es conocido como el principe del sol en la serie de supercampeones?",
+		"opciones" : {"a" :"Steve Hyuga","b":"Makoto Soda","c":"Oliver atom","d":"Aoi Shingo"},
+		"correcta":"d"
+	},
+	"Pregunta35" : {
+		"texto" : "¿Cual es la tecnica especial de Ippo en Hajime no Ippo?",
+		"opciones" : {"a" :"Smash","b":"Dempsey roll","c":"White fang","d":"Jolt counter"},
+		"correcta":"b"
+	},
+	"Pregunta36" : {
+		"texto" : "¿Cual es la tecnica especial de Sawamura en Hajime no Ippo?",
+		"opciones" : {"a" :"The Bullet","b":"Jolt counter","c":"Smash","d":"Hammer fist"},
+		"correcta":"a"
+	},
+	"Pregunta37" : {
+		"texto" : "¿Que numero de Hokage es Naruto?",
+		"opciones" : {"a" :"sexto","b":"septimo","c":"quinto","d":"octavo"},
+		"correcta":"b"
+	},
+	"Pregunta38" : {
+		"texto" : "¿En que año salio el juego de mario bros?",
+		"opciones" : {"a" :"1985","b":"1986","c":"1991","d":"1990"},
+		"correcta":"a"
+	},
+	"Pregunta39" : {
+		"texto" : "¿Quien compuso el tema principal de zelda?",
+		"opciones" : {"a" :"Satoru Iwata","b":"Koji Kondo","c":"Shigeru Miyamoto","d":"Reggie films-aime"},
+		"correcta":"b"
+	},
+	"Pregunta40" : {
+		"texto" : "¿Como se llama el creador de sonichu?",
+		"opciones" : {"a" :"Chris Chan","b":"Johnny Cage","c":"Mike tyson","d":"Reggie films-aime"},
+		"correcta":"c"
+	},
+	"Pregunta41" : {
+		"texto" : "¿Cuántos pokemon tenían las versiones las versiones azul, roja y amarilla?",
+		"opciones" : {"a" :"150","b":"149","c":"151","d":"152"},
+		"correcta":"c"
+	},
+	"Pregunta42" : {
+		"texto" : "¿Cuanto es 110010 en decimal?",
+		"opciones" : {"a" :"100","b":"62","c":"50","d":"30"},
+		"correcta":"c"
+	},
+	"Pregunta43" : {
+		"texto" : "¿Qué es Winnie Pooh?",
+		"opciones" : {"a" :"un oso","b":"un perro","c":"un gato","d":"un alien"},
+		"correcta":"a"
+	},
+	"Pregunta44" : {
+		"texto" : "¿Qué raza de perro es blanco y tiene manchas negras?",
+		"opciones" : {"a" :"Dalmata","b":"Labrador","c":"Salchicha","d":"Labrador Australiano"},
+		"correcta":"a"
+	},
+	"Pregunta45" : {
+		"texto" : "¿Qué animal es adorado en India?",
+		"opciones" : {"a" :"la cabra","b":"el caballo","c":"el perro","d":"la vaca"},
+		"correcta":"d"
+	},
+	"Pregunta46" : {
+		"texto" : "¿A qué reino animal pertenece la salamandra?",
+		"opciones" : {"a" :"Reptil","b":"Anfibio","c":"Pez","d":"Ave"},
+		"correcta":"b"
+	},
+	"Pregunta47" : {
+		"texto" : "¿Cual fue la ultima Faraona en el antiguo Egipto?",
+		"opciones" : {"a" :"Isis","b":"Cleopatra","c":"Nefertiti","d":"Ninguna de esas"},
+		"correcta":"b"
+	},
+	"Pregunta48" : {
+		"texto" : "¿En que año piso el hombre la luna?",
+		"opciones" : {"a" :"1969","b":"1968","c":"1972","d":"1971"},
+		"correcta":"a"
+	},
+	"Pregunta49" : {
+		"texto" : "¿Cuanto dura la guerra de los cien años?",
+		"opciones" : {"a" :"100","b":"101","c":"106","d":"116"},
+		"correcta":"d"
+	},
+	"Pregunta50" : {
+		"texto" : "¿Como se llama el protagonista de los juegos de Zelda?",
+		"opciones" : {"a" :"Zelda","b":"Ling Ling","c":"Link","d":"Ganondorf"},
+		"correcta":"c"
+	},
+	"Pregunta51" : {
+		"texto" : "¿Cual pieza del ajedres puede moverse en todas las direcciones las veces que quiera?",
+		"opciones" : {"a" :"La reina","b":"El rey","c":"La torre","d":"El caballo"},
+		"correcta":"a"
+	},
+	"Pregunta52" : {
+		"texto" : "¿Cómo se llama la madre de Simba en la película de Disney El Rey León?",
+		"opciones" : {"a" :"Shenzi","b":"Sarafina","c":"Sarabi","d":"Nala"},
+		"correcta":"c"
+	},
+	"Pregunta53" : {
+		"texto" : "¿Cómo se llama el protagonista del anime Cowboy Bebop",
+		"opciones" : {"a" :"Ichigo","b":"Makoto","c":"Kirigiri","d":"Spike"},
+		"correcta":"d"
+	},
+	"Pregunta54" : {
+		"texto" : "¿Cómo se llama el manga de Kentaro Miura protagonizado por Guts",
+		"opciones" : {"a" :"Bleach","b":"Berserk","c":"Guntz","d":"Danganronpa"},
+		"correcta":"b"
+	},
+	"Pregunta55" : {
+		"texto" : "¿En qué país hay más de mil quinientas variedades de salchicha",
+		"opciones" : {"a" :"Alemania","b":"Cananda","c":"Reino Unido","d":"Belgica"},
+		"correcta":"a"
+	},
+	"Pregunta56" : {
+		"texto" : "¿Qué país se formó en 1900 con la unión de seis colonias",
+		"opciones" : {"a" :"Alemania","b":"Australia","c":"Rusia","d":"Brazil"},
+		"correcta":"b"
+	},
+	"Pregunta57" : {
+		"texto" : "¿Qué país suramericano fabrica pisco a base de uvas.",
+		"opciones" : {"a" :"Venezuela","b":"Brazil","c":"Colombia","d":"Chile"},
+		"correcta":"d"
+	},
+	"Pregunta58" : {
+		"texto" : "¿En qué guerra murieron más de 50 millones de personas",
+		"opciones" : {"a" :"La gran guerra","b":"La segunda guerra mundial","c":"Revolucion Francesa","d":"La guerra de los cien años"},
+		"correcta":"b"
+	},
+	"Pregunta59" : {
+		"texto" : "¿De quién es la escultura La Piedad?",
+		"opciones" : {"a" :"Miguel Angel","b":"Donatelo","c":"Leonardo","d":"Raphael"},
+		"correcta":"a"
+	},
+	"Pregunta60" : {
+		"texto" : "¿Cuántos dedos se ven en el cuadro El caballero de la mano en el pecho?",
+		"opciones" : {"a" :"4","b":"5","c":"3","d":"2"},
+		"correcta":"b"
+	},
+	"Pregunta61" : {
+		"texto" : "¿A partir de qué momento termina la Edad Antigua y empieza la Edad Media?",
+		"opciones" : {"a" :"476 d.C","b":"502 d.C","c":"475 d.C","d":"516 d.C"},
+		"correcta":"a"
+	},
+	"Pregunta62" : {
+		"texto" : "¿Qué selección de fútbol ganó el Mundial de Brasil en el campeonato de 2014?",
+		"opciones" : {"a" :"Alemania","b":"Francia","c":"Uruguay","d":"Brazil"},
+		"correcta":"a"
+	},
+	"Pregunta63" : {
+		"texto" : "¿Cuantos juegos tiene actual mente la saga dark souls?",
+		"opciones" : {"a" :"2","b":"3","c":"4","d":"5"},
+		"correcta":"b"
+	},
+	"Pregunta64" : {
+		"texto" : "¿Qué arte marcial de origen suramericano fue concebido para parecerse a una danza?",
+		"opciones" : {"a" :"Capoeira","b":"Karate","c":"Taekwondo","d":"Jujitsu"},
+		"correcta":"a"
+	},
+	"Pregunta65" : {
+		"texto" : "¿Cuál es el idioma más hablado en Suiza?",
+		"opciones" : {"a" :"Sueco","b":"Español","c":"Aleman","d":"Ingles"},
+		"correcta":"c"
+	},
+	"Pregunta66" : {
+		"texto" : "¿En qué año llegó el hombre a la Luna?",
+		"opciones" : {"a" :"1968","b":"1970","c":"1971","d":"1969"},
+		"correcta":"d"
+	},
+	"Pregunta67" : {
+		"texto" : "¿En qué año se creó la ONU?",
+		"opciones" : {"a" :"1946","b":"1938","c":"1945","d":"1939"},
+		"correcta":"c"
+	},
+	"Pregunta68" : {
+		"texto" : "¿En qué mes el sol está más cerca de la Tierra?",
+		"opciones" : {"a" :"Diciembre","b":"Mayo","c":"Enero","d":"Octubre"},
+		"correcta":"a"
+	},
+	"Pregunta69" : {
+		"texto" : "¿Cuántos jugadores hay en un equipo de voley?",
+		"opciones" : {"a" :"5","b":"6","c":"4","d":"7"},
+		"correcta":"b"
+	},
+	"Pregunta70" : {
+		"texto" : "¿Qué país está entre Perú y Colombia?",
+		"opciones" : {"a" :"Chile","b":"Peru","c":"Venezuela","d":"Ecuador"},
+		"correcta":"d"
+	},
+	"Pregunta71" : {
+		"texto" : "¿Cuál es el dedo más sensible de la mano?",
+		"opciones" : {"a" :"Indice","b":"Pulgar","c":"Centro","d":"Meñique"},
+		"correcta":"a"
+	},
+	"Pregunta72" : {
+		"texto" : "¿Cuál es el autor del cómic Watchmen?",
+		"opciones" : {"a" :"Alan Moore","b":"Hugh Laurie","c":"Matt Groening","d":"Stephen King"},
+		"correcta":"a"
+	},
+	"Pregunta73" : {
+		"texto" : "¿Qué sentido se desarrolla primero?",
+		"opciones" : {"a" :"Tacto","b":"Vista","c":"Gusto","d":"Olfato"},
+		"correcta":"d"
+	},
+	"Pregunta74" : {
+		"texto" : "¿Qué tipo de instrumento es la citara?",
+		"opciones" : {"a" :"Viento","b":"Cuerda","c":"Percusion","d":"Electrico"},
+		"correcta":"b"
+	},
+	"Pregunta75" : {
+		"texto" : "¿Por qué tipo de música fue mundialmente conocido Astrud Gilberto?",
+		"opciones" : {"a" :"Bossa nova","b":"Clasica","c":"Rock","d":"Jazz"},
+		"correcta":"a"
+	},
+	"Pregunta76" : {
+		"texto" : "¿En que año se publico el videojuego llamado castlevania sinphony of the night?",
+		"opciones" : {"a" :"1993","b":"1989","c":"1997","d":"1999"},
+		"correcta":"c"
+	},
+	"Pregunta77" : {
+		"texto" : "¿Dónde se encuentra el desierto de Gobi?",
+		"opciones" : {"a" :"Asia","b":"Africa","c":"America","d":"Europa"},
+		"correcta":"a"
+	},
+	"Pregunta78" : {
+		"texto" : "¿En qué año se creó la World Wide Web?",
+		"opciones" : {"a" :"1990","b":"1992","c":"1991","d":"1989"},
+		"correcta":"c"
+	},
+	"Pregunta79" : {
+		"texto" : "¿De qué filósofo es la idea del mito de la caverna?",
+		"opciones" : {"a" :"Homero","b":"Aristoteles","c":"Socrates","d":"Platón"},
+		"correcta":"c"
+	},
+	"Pregunta80" : {
+		"texto" : "¿Dónde nació el escritor Julio Cortázar?",
+		"opciones" : {"a" :"Argentina","b":"España","c":"Portugal","d":"Uruguay"},
+		"correcta":"a"
+	},
+	"Pregunta81" : {
+		"texto" : "¿Un lustro cuántos años son?",
+		"opciones" : {"a" :"20","b":"15","c":"10","d":"5"},
+		"correcta":"d"
+	},
+	"Pregunta82" : {
+		"texto" : "¿En qué año se estrenó el episodio final de la serie The Office?",
+		"opciones" : {"a" :"2011","b":"2012","c":"2013","d":"2014"},
+		"correcta":"c"
+	},
+	"Pregunta83" : {
+		"texto" : "¿Cuántas Champions tiene el Real Madrid?",
+		"opciones" : {"a" :"13","b":"20","c":"16","d":"11"},
+		"correcta":"a"
+	},
+	"Pregunta84" : {
+		"texto" : "¿Los Pumas de rugby de dónde son?",
+		"opciones" : {"a" :"Venezuela","b":"Paraguay","c":"Uruguay","d":"Argentina"},
+		"correcta":"d"
+	},
+	"Pregunta85" : {
+		"texto" : "¿Dónde se celebró la Copa Mundial de la FIFA en 1994?",
+		"opciones" : {"a" :"Brazil","b":"Italia","c":"Alemania","d":"Argentina"},
+		"correcta":"b"
+	},
+	"Pregunta86" : {
+		"texto" : "¿Cuál es el nombre de las partículas subatómicas de carga negativa?",
+		"opciones" : {"a" :"Protones","b":"Electrones","c":"Neutrones","d":"Particula"},
+		"correcta":"b"
+	},
+	"Pregunta87" : {
+		"texto" : "¿En que año fue lanzado el primer Iphone?",
+		"opciones" : {"a" :"2006","b":"2007","c":"2008","d":"2009"},
+		"correcta":"b"
+	},
+	"Pregunta88" : {
+		"texto" : "¿Cual es el planeta mas caliente en el sistema solar?",
+		"opciones" : {"a" :"Venus","b":"Saturno","c":"Marte","d":"Urano"},
+		"correcta":"a"
+	},
+	"Pregunta89" : {
+		"texto" : "¿Cual es el simbolo del potasio?",
+		"opciones" : {"a" :"Ca","b":"Co","c":"K","d":"P"},
+		"correcta":"c"
+	},
+	"Pregunta90" : {
+		"texto" : "¿Cual planeta tiene mas gravedad en el sistema solar?",
+		"opciones" : {"a" :"Jupiter","b":"Marte","c":"Neptuno","d":"Tierra"},
+		"correcta":"a"
+	},
+	"Pregunta91" : {
+		"texto" : "¿Que pais invento el té?",
+		"opciones" : {"a" :"España","b":"Uruguay","c":"Inglaterra","d":"China"},
+		"correcta":"d"
+	},
+	"Pregunta92" : {
+		"texto" : "¿Que nacion europea invento los hot dogs?",
+		"opciones" : {"a" :"España","b":"Alemania","c":"Inglaterra","d":"Francia"},
+		"correcta":"b"
+	},
+	"Pregunta93" : {
+		"texto" : "¿En que año se estrenó la serie de South Park?",
+		"opciones" : {"a" :"1996","b":"2000","c":"1999","d":"1997"},
+		"correcta":"d"
+	},
+	"Pregunta94" : {
+		"texto" : "¿Cual es el simbolo del Mercurio?",
+		"opciones" : {"a" :"Mg","b":"Hg","c":"Mn","d":"O"},
+		"correcta":"b"
+	},
+	"Pregunta95" : {
+		"texto" : "¿Que simbolo del horoscopo tiene un cangrejo?",
+		"opciones" : {"a" :"Piscis","b":"Tauro","c":"Cancer","d":"Geminis"},
+		"correcta":"c"
+	},
+	"Pregunta96" : {
+		"texto" : "¿Cual es el animal nacional de Canada?",
+		"opciones" : {"a" :"Castor","b":"Toro","c":"Ciervo","d":"Ballena"},
+		"correcta":"a"
+	},
+	"Pregunta97" : {
+		"texto" : "¿Cual es el oceano mas grande?",
+		"opciones" : {"a" :"Pacifico","b":"Atlantico","c":"Indico","d":"Artico"},
+		"correcta":"a"
+	},
+	"Pregunta98" : {
+		"texto" : "¿Cual es el oceano mas pequeño?",
+		"opciones" : {"a" :"Pacifico","b":"Atlantico","c":"Indico","d":"Artico"},
+		"correcta":"d"
+	},
+	"Pregunta99" : {
+		"texto" : "¿Michael Jordan es el mejor en: ?",
+		"opciones" : {"a" :"Basketball","b":"Futbol","c":"Ciclismo","d":"Tennis"},
+		"correcta":"a"
+	},
+	"Pregunta100" : {
+		"texto" : "¿Cuantos cuadrados hay en un tablero de ajedrez?",
+		"opciones" : {"a" :"32","b":"64","c":"54","d":"72"},
+		"correcta":"b"
 	}
 } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
